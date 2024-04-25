@@ -1,0 +1,14 @@
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\bin\Debug\net8.0\dotnet-bootcamp.exe
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\bin\Debug\net8.0\dotnet-bootcamp.deps.json
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\bin\Debug\net8.0\dotnet-bootcamp.runtimeconfig.json
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\bin\Debug\net8.0\dotnet-bootcamp.dll
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\bin\Debug\net8.0\dotnet-bootcamp.pdb
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.AssemblyInfoInputs.cache
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.AssemblyInfo.cs
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.dll
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\refint\dotnet-bootcamp.dll
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.pdb
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\dotnet-bootcamp.genruntimeconfig.cache
+C:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\obj\Debug\net8.0\ref\dotnet-bootcamp.dll
