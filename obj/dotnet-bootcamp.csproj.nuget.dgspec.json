@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kauan\\Desktop\\PHP\\dotnet-bootcamp\\dotnet-bootcamp.csproj": {}
+    "C:\\Users\\Kauan\\Desktop\\php\\dotnet-bootcamp\\.net-developer-bootcamp\\dotnet-bootcamp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kauan\\Desktop\\PHP\\dotnet-bootcamp\\dotnet-bootcamp.csproj": {
+    "C:\\Users\\Kauan\\Desktop\\php\\dotnet-bootcamp\\.net-developer-bootcamp\\dotnet-bootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kauan\\Desktop\\PHP\\dotnet-bootcamp\\dotnet-bootcamp.csproj",
+        "projectUniqueName": "C:\\Users\\Kauan\\Desktop\\php\\dotnet-bootcamp\\.net-developer-bootcamp\\dotnet-bootcamp.csproj",
         "projectName": "dotnet-bootcamp",
-        "projectPath": "C:\\Users\\Kauan\\Desktop\\PHP\\dotnet-bootcamp\\dotnet-bootcamp.csproj",
+        "projectPath": "C:\\Users\\Kauan\\Desktop\\php\\dotnet-bootcamp\\.net-developer-bootcamp\\dotnet-bootcamp.csproj",
         "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kauan\\Desktop\\PHP\\dotnet-bootcamp\\obj\\",
+        "outputPath": "C:\\Users\\Kauan\\Desktop\\php\\dotnet-bootcamp\\.net-developer-bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"
