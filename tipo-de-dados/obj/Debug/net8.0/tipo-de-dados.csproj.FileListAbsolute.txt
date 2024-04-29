@@ -1,0 +1,15 @@
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.AssemblyInfoInputs.cache
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.AssemblyInfo.cs
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.sourcelink.json
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\bin\Debug\net8.0\tipo-de-dados.exe
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\bin\Debug\net8.0\tipo-de-dados.deps.json
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\bin\Debug\net8.0\tipo-de-dados.runtimeconfig.json
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\bin\Debug\net8.0\tipo-de-dados.dll
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\bin\Debug\net8.0\tipo-de-dados.pdb
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.dll
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\refint\tipo-de-dados.dll
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.pdb
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\tipo-de-dados.genruntimeconfig.cache
+C:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\tipo-de-dados\obj\Debug\net8.0\ref\tipo-de-dados.dll
