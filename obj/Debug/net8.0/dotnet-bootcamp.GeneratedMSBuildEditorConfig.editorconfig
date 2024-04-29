@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnet_bootcamp
-build_property.ProjectDir = c:\Users\Kauan\Desktop\PHP\dotnet-bootcamp\.net-developer-bootcamp\
+build_property.ProjectDir = c:\Users\Kauan\Desktop\php\dotnet-bootcamp\.net-developer-bootcamp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
