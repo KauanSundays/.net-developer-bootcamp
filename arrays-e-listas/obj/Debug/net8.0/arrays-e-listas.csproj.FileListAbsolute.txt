@@ -1,0 +1,15 @@
+C:\studies\.net-developer-bootcamp\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.exe
+C:\studies\.net-developer-bootcamp\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.deps.json
+C:\studies\.net-developer-bootcamp\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.runtimeconfig.json
+C:\studies\.net-developer-bootcamp\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.dll
+C:\studies\.net-developer-bootcamp\arrays-e-listas\bin\Debug\net8.0\arrays-e-listas.pdb
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.AssemblyInfoInputs.cache
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.AssemblyInfo.cs
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.csproj.CoreCompileInputs.cache
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.sourcelink.json
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.dll
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\refint\arrays-e-listas.dll
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.pdb
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\arrays-e-listas.genruntimeconfig.cache
+C:\studies\.net-developer-bootcamp\arrays-e-listas\obj\Debug\net8.0\ref\arrays-e-listas.dll
