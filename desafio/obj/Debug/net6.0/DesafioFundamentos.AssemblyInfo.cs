@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-bootcamp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioFundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39999d495645f6877b585b77844252af1e98f3b2")]
-[assembly: System.Reflection.AssemblyProductAttribute("dotnet-bootcamp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("dotnet-bootcamp")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesafioFundamentos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesafioFundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
