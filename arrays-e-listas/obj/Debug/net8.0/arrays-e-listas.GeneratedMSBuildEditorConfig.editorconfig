@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = arrays_e_listas
-build_property.ProjectDir = C:\studies\.net-developer-bootcamp\arrays-e-listas\
+build_property.ProjectDir = c:\studies\.net-developer-bootcamp\arrays-e-listas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
